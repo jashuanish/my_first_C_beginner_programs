@@ -4341,8 +4341,6 @@ int main()
     }
 }
 
-*/
-
 int main()
 {
     FILE * fp;
@@ -4358,3 +4356,4 @@ int main()
 
 }
 
+*/

@@ -2,8 +2,6 @@ Hi
 My name is Jashua Anish
 I am a 2nd year engineering student in RVCE studying bachelors in computer science.
 
-
-
 Number: 1, Square: 1 
 Number: 2, Square: 4 
 Number: 3, Square: 9 
